@@ -1,6 +1,6 @@
 ## Olá, boas vindas ao meu perfil 👋
 
-Meu nome é Renato Magalhães e sou apaixonado por tecnologia e programação web, atuo nessas áreas há mais de 20 anos 😎
+Meu nome é Renato Magalhães e sou apaixonado por tecnologia e programação web há mais de 20 anos 😎
 
 <br>
 
