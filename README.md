@@ -1,6 +1,13 @@
 ## Olá, boas vindas ao meu perfil 👋
 
-Meu nome é Renato Magalhães e sou apaixonado por tecnologia e programação web há mais de 20 anos 😎
+Meu nome é Renato Magalhães e sou apaixonado por tecnologia e atuo na web há mais de 20 anos 😎
+- Eletrônica (Rádio, TV e outros)
+- Hardware (Desktop, Notebooks e Servidores)
+- Software (Progamação Web, OS Windows e Linux)
+- Cloud (AWS, OVH, Contabo, DO, GCP, Azure)
+- Cybersecurity
+- Liderança
+- Carreira
 
 <br>
 
