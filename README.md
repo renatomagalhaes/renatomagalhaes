@@ -7,9 +7,9 @@ Me chamo Renato Magalhães e trago em meu DNA a paixão por inovação. Com mais
 - 🌐 Engenharia de Software: Meu objetivo é transformar conceitos em código, criando experiências únicas e funcionais para a web e que impulsione a próxima geração de experiências online.
 - 💻 Hardware: Desbravei a eletrônica (Rádio e TV) até a informática (Desktop, Notebooks e Servidores - Windows / Linux)
 - ☁️ Cloud: AWS, OVH, Contabo, DO, GCP, Azure: Na nuvem é onde moldo soluções que transcendem fronteiras físicas.
-- 🔒 Cybersecurity: No controle e sempre visando proteger dados e sistemas, garantindo a integridade em um mundo cibernético desafiador.
-- 👥 Liderança em Desenvolvimento: Conduzo equipes com maestria, transformando desafios em conquistas.
-- 🚀 Coaching e Planejamento de Carreira: Inspiro e moldo futuros profissionais, traçando trajetórias de sucesso.
+- 🔒 Cybersecurity: Comprometido com a segurança digital visando proteger dados e sistemas, garantindo a integridade em um mundo cibernético desafiador.
+- 👥 Liderança em Desenvolvimento: Conduzo equipes multidisciplinares, transformando desafios em conquistas.
+- 🚀 Coaching e Planejamento de Carreira: Inspirar e moldar futuros profissionais, traçando trajetórias de sucesso.
 
 <br>
 
