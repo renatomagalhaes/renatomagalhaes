@@ -1,15 +1,15 @@
-## 🚀 Bem-vindo ao meu universo tecnológico!
+## Bem-vindo ao meu espaço tecnológico!
 
-Me chamo Renato Magalhães e trago em meu DNA a paixão por inovação. Com mais de duas décadas imerso no cenário da programação para web, testemunhei muitos desafios e me destaquei na vanguarda dessa revolução tecnológica.
+Sou Renato Magalhães, um entusiasta da inovação com mais de duas décadas de experiência no cenário da programação para web. Testemunhei e superei inúmeros desafios, posicionando-me na vanguarda desta revolução tecnológica.
 
-💡 Ao longo da minha carreira, aprimorei minhas habilidades em diversas áreas, destacando-me especialmente em:
+💡 Ao longo da minha carreira, aperfeiçoei minhas habilidades em diversas áreas, destacando-me especialmente em:
 
-- 🌐 Engenharia de Software: Meu objetivo é transformar conceitos em código, criando experiências únicas e funcionais para a web e que impulsione a próxima geração de experiências online.
-- 💻 Hardware: Desbravei a eletrônica (Rádio e TV) até a informática (Desktop, Notebooks e Servidores - Windows / Linux)
-- ☁️ Cloud: AWS, OVH, Contabo, DO, GCP, Azure: Na nuvem é onde moldo soluções que transcendem fronteiras físicas.
-- 🔒 Cybersecurity: Comprometido com a segurança digital visando proteger dados e sistemas, garantindo a integridade em um mundo cibernético desafiador.
-- 👥 Liderança em Desenvolvimento: Conduzo equipes multidisciplinares, transformando desafios em conquistas.
-- 🚀 Coaching e Planejamento de Carreira: Inspirar e moldar futuros profissionais, traçando trajetórias de sucesso.
+- 🌐 Engenharia de Software: Transformação de conceitos em código para criar experiências online únicas e funcionais.
+- 💻 Hardware: Experiência desde a eletrônica (Rádio e TV) até a informática (Desktop, Notebooks e Servidores - Windows / Linux).
+- ☁️ Cloud: Utilização de diversas plataformas de nuvem para criar soluções que ultrapassam fronteiras físicas.
+- 🔒 Cybersecurity: Compromisso com a segurança digital para proteger dados e sistemas em um mundo cibernético.
+- 👥 Liderança em Desenvolvimento: Condução de equipes multidisciplinares para transformar desafios em conquistas.
+- 🚀 Coaching e Planejamento de Carreira: Inspiração e orientação para futuros profissionais, ajudando a traçar trajetórias de sucesso.
 
 <br>
 
@@ -25,6 +25,5 @@ Me chamo Renato Magalhães e trago em meu DNA a paixão por inovação. Com mais
 <!-- REDES SOCIAIS -->
 <div align="center">
   <a href="https://twitter.com/rsmaster" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23F56040?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/renato.s.magalhaes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renato-magalhaes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
